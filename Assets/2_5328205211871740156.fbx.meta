@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 0942a0c8df6e99f4cbb0e571ceed74ab
+timeCreated: 1522478533
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: GUN
+    100006: Head
+    100008: left arm
+    100010: left ear.001
+    100012: Left eye
+    100014: left leg
+    100016: Nose
+    100018: right arm
+    100020: Right eye
+    100022: right leg
+    400000: //RootNode
+    400002: body
+    400004: GUN
+    400006: Head
+    400008: left arm
+    400010: left ear.001
+    400012: Left eye
+    400014: left leg
+    400016: Nose
+    400018: right arm
+    400020: Right eye
+    400022: right leg
+    2100000: Material.006
+    2100002: Material.003
+    2100004: Material.007
+    2100006: Material.005
+    2100008: Material.004
+    2100010: dress
+    2300000: body
+    2300002: GUN
+    2300004: Head
+    2300006: left arm
+    2300008: left ear.001
+    2300010: Left eye
+    2300012: left leg
+    2300014: Nose
+    2300016: right arm
+    2300018: Right eye
+    2300020: right leg
+    3300000: body
+    3300002: GUN
+    3300004: Head
+    3300006: left arm
+    3300008: left ear.001
+    3300010: Left eye
+    3300012: left leg
+    3300014: Nose
+    3300016: right arm
+    3300018: Right eye
+    3300020: right leg
+    4300000: left leg
+    4300002: right arm
+    4300004: left arm
+    4300006: GUN
+    4300008: right leg
+    4300010: Head
+    4300012: left ear.001
+    4300014: Right eye
+    4300016: Left eye
+    4300018: Nose
+    4300020: body
+    7400000: left leg|bodyAction.002
+    7400002: left leg|GUNAction.002
+    7400004: left leg|HeadAction.002
+    7400006: left leg|left armAction.002
+    7400008: left leg|left ear.001Action.002
+    7400010: left leg|Left eyeAction.002
+    7400012: left leg|left legAction
+    7400014: left leg|LegsAction.001
+    7400016: left leg|NoseAction.002
+    7400018: left leg|right armAction.002
+    7400020: left leg|Right eyeAction.002
+    7400022: right arm|bodyAction.002
+    7400024: right arm|GUNAction.002
+    7400026: right arm|HeadAction.002
+    7400028: right arm|left armAction.002
+    7400030: right arm|left ear.001Action.002
+    7400032: right arm|Left eyeAction.002
+    7400034: right arm|left legAction
+    7400036: right arm|LegsAction.001
+    7400038: right arm|NoseAction.002
+    7400040: right arm|right armAction.002
+    7400042: right arm|Right eyeAction.002
+    7400044: left arm|bodyAction.002
+    7400046: left arm|GUNAction.002
+    7400048: left arm|HeadAction.002
+    7400050: left arm|left armAction.002
+    7400052: left arm|left ear.001Action.002
+    7400054: left arm|Left eyeAction.002
+    7400056: left arm|left legAction
+    7400058: left arm|LegsAction.001
+    7400060: left arm|NoseAction.002
+    7400062: left arm|right armAction.002
+    7400064: left arm|Right eyeAction.002
+    7400066: GUN|bodyAction.002
+    7400068: GUN|GUNAction.002
+    7400070: GUN|HeadAction.002
+    7400072: GUN|left armAction.002
+    7400074: GUN|left ear.001Action.002
+    7400076: GUN|Left eyeAction.002
+    7400078: GUN|left legAction
+    7400080: GUN|LegsAction.001
+    7400082: GUN|NoseAction.002
+    7400084: GUN|right armAction.002
+    7400086: GUN|Right eyeAction.002
+    7400088: right leg|bodyAction.002
+    7400090: right leg|GUNAction.002
+    7400092: right leg|HeadAction.002
+    7400094: right leg|left armAction.002
+    7400096: right leg|left ear.001Action.002
+    7400098: right leg|Left eyeAction.002
+    7400100: right leg|left legAction
+    7400102: right leg|LegsAction.001
+    7400104: right leg|NoseAction.002
+    7400106: right leg|right armAction.002
+    7400108: right leg|Right eyeAction.002
+    7400110: Head|bodyAction.002
+    7400112: Head|GUNAction.002
+    7400114: Head|HeadAction.002
+    7400116: Head|left armAction.002
+    7400118: Head|left ear.001Action.002
+    7400120: Head|Left eyeAction.002
+    7400122: Head|left legAction
+    7400124: Head|LegsAction.001
+    7400126: Head|NoseAction.002
+    7400128: Head|right armAction.002
+    7400130: Head|Right eyeAction.002
+    7400132: left ear.001|bodyAction.002
+    7400134: left ear.001|GUNAction.002
+    7400136: left ear.001|HeadAction.002
+    7400138: left ear.001|left armAction.002
+    7400140: left ear.001|left ear.001Action.002
+    7400142: left ear.001|Left eyeAction.002
+    7400144: left ear.001|left legAction
+    7400146: left ear.001|LegsAction.001
+    7400148: left ear.001|NoseAction.002
+    7400150: left ear.001|right armAction.002
+    7400152: left ear.001|Right eyeAction.002
+    7400154: Right eye|bodyAction.002
+    7400156: Right eye|GUNAction.002
+    7400158: Right eye|HeadAction.002
+    7400160: Right eye|left armAction.002
+    7400162: Right eye|left ear.001Action.002
+    7400164: Right eye|Left eyeAction.002
+    7400166: Right eye|left legAction
+    7400168: Right eye|LegsAction.001
+    7400170: Right eye|NoseAction.002
+    7400172: Right eye|right armAction.002
+    7400174: Right eye|Right eyeAction.002
+    7400176: Left eye|bodyAction.002
+    7400178: Left eye|GUNAction.002
+    7400180: Left eye|HeadAction.002
+    7400182: Left eye|left armAction.002
+    7400184: Left eye|left ear.001Action.002
+    7400186: Left eye|Left eyeAction.002
+    7400188: Left eye|left legAction
+    7400190: Left eye|LegsAction.001
+    7400192: Left eye|NoseAction.002
+    7400194: Left eye|right armAction.002
+    7400196: Left eye|Right eyeAction.002
+    7400198: Nose|bodyAction.002
+    7400200: Nose|GUNAction.002
+    7400202: Nose|HeadAction.002
+    7400204: Nose|left armAction.002
+    7400206: Nose|left ear.001Action.002
+    7400208: Nose|Left eyeAction.002
+    7400210: Nose|left legAction
+    7400212: Nose|LegsAction.001
+    7400214: Nose|NoseAction.002
+    7400216: Nose|right armAction.002
+    7400218: Nose|Right eyeAction.002
+    7400220: body|bodyAction.002
+    7400222: body|GUNAction.002
+    7400224: body|HeadAction.002
+    7400226: body|left armAction.002
+    7400228: body|left ear.001Action.002
+    7400230: body|Left eyeAction.002
+    7400232: body|left legAction
+    7400234: body|LegsAction.001
+    7400236: body|NoseAction.002
+    7400238: body|right armAction.002
+    7400240: body|Right eyeAction.002
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 96c5a4f6d21fa24439a1a30960abaed0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 52e00ad1730d2234dae5bedc4945a8b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: af7bd6837ee8a524f85345587b91d6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 46c7590b496fd4e47933b66f4e10f736, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 2f1ffd111a91b614cb8c0baecfff7c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dress
+    second: {fileID: 2100000, guid: fa2846a56dcbce842bb530137663fa22, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

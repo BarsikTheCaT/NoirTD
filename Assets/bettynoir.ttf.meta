@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 78dc590daf86b0e4094b134ab8531fda
+timeCreated: 1522319037
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Betty Noir
+  fontNames:
+  - Betty Noir
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
